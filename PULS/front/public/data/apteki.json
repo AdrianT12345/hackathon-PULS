@@ -1,0 +1,688 @@
+[
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Dworzec",
+    "opis": "ul. Podwale Grodzkie 8, 80-895 Gdańsk (Śródmieście)",
+    "koordynaty": "54.3562 N, 18.6443 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Ratuszowa",
+    "opis": "ul. Długa 54, 80-831 Gdańsk (Główne Miasto)",
+    "koordynaty": "54.3495 N, 18.6515 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Rajska",
+    "opis": "ul. Rajska 10, 80-850 Gdańsk (Madison)",
+    "koordynaty": "54.3570 N, 18.6492 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Cosmedica Żabi Kruk",
+    "opis": "ul. Żabi Kruk 10, 80-822 Gdańsk",
+    "koordynaty": "54.3438 N, 18.6517 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dr. Max Pańska",
+    "opis": "ul. Pańska 6, 80-844 Gdańsk",
+    "koordynaty": "54.3510 N, 18.6500 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Aksamitna",
+    "opis": "ul. Łagiewniki 52, 80-855 Gdańsk",
+    "koordynaty": "54.3575 N, 18.6460 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "DOZ Apteka Wałowa",
+    "opis": "ul. Wałowa 27, 80-858 Gdańsk",
+    "koordynaty": "54.3585 N, 18.6520 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "DOZ Apteka Długie Ogrody",
+    "opis": "ul. Długie Ogrody 11, 80-765 Gdańsk",
+    "koordynaty": "54.3485 N, 18.6630 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dom Leków (Dyżurna)",
+    "opis": "ul. Kartuska 5, 80-103 Gdańsk (Siedlce)",
+    "koordynaty": "54.3512 N, 18.6368 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Manhattan",
+    "opis": "al. Grunwaldzka 102, 80-244 Gdańsk (Wrzeszcz)",
+    "koordynaty": "54.3785 N, 18.6042 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Super-Pharm Bałtycka",
+    "opis": "al. Grunwaldzka 141, 80-264 Gdańsk (Wrzeszcz)",
+    "koordynaty": "54.3825 N, 18.5998 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Pod Lwem",
+    "opis": "ul. Marii Skłodowskiej-Curie 3, 80-210 Gdańsk (Aniołki)",
+    "koordynaty": "54.3685 N, 18.6305 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "DOZ Apteka Grunwaldzka",
+    "opis": "al. Grunwaldzka 60, 80-244 Gdańsk",
+    "koordynaty": "54.3755 N, 18.6080 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Przy Rynku",
+    "opis": "ul. Danusi 4A, 80-434 Gdańsk (Dolny Wrzeszcz)",
+    "koordynaty": "54.3850 N, 18.6200 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Remedium",
+    "opis": "ul. Fryderyka Chopina 36, 80-268 Gdańsk",
+    "koordynaty": "54.3820 N, 18.5920 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dyżurna Klonowa",
+    "opis": "ul. Klonowa 4A, 80-264 Gdańsk",
+    "koordynaty": "54.3810 N, 18.6020 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Słoneczna",
+    "opis": "al. Jana Pawła II 4E, 80-462 Gdańsk (Szpital Zaspa)",
+    "koordynaty": "54.3940 N, 18.6035 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka na Zaspie",
+    "opis": "ul. Żwirki i Wigury 12, 80-463 Gdańsk",
+    "koordynaty": "54.3915 N, 18.6185 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Burzyńskiego",
+    "opis": "ul. Burzyńskiego 1/2, 80-462 Gdańsk",
+    "koordynaty": "54.3900 N, 18.6000 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Ostrołęcka",
+    "opis": "ul. Ostrołęcka 3, 80-462 Gdańsk",
+    "koordynaty": "54.3950 N, 18.6100 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dr. Max Auchan",
+    "opis": "ul. Kołobrzeska 32, 80-394 Gdańsk (Przymorze)",
+    "koordynaty": "54.4058 N, 18.5910 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dr. Max Falowiec",
+    "opis": "ul. Obrońców Wybrzeża 25, 80-398 Gdańsk",
+    "koordynaty": "54.4100 N, 18.5900 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dr. Max Czerwony Dwór",
+    "opis": "ul. Czerwony Dwór 24, 80-383 Gdańsk",
+    "koordynaty": "54.4150 N, 18.5980 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Jagiellońska",
+    "opis": "ul. Jagiellońska 10D, 80-371 Gdańsk",
+    "koordynaty": "54.4160 N, 18.6010 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gdyńska",
+    "opis": "ul. Gdyńska 3A, 80-340 Gdańsk (Żabianka)",
+    "koordynaty": "54.4260 N, 18.5700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Alchemia",
+    "opis": "al. Grunwaldzka 411, 80-309 Gdańsk (Oliwa)",
+    "koordynaty": "54.3995 N, 18.5750 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka w Oliwie",
+    "opis": "al. Grunwaldzka 517, 80-320 Gdańsk",
+    "koordynaty": "54.4080 N, 18.5600 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Rodzinna Osowa",
+    "opis": "ul. Balcerskiego 2, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4255 N, 18.4612 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Osowa",
+    "opis": "ul. Czerwonej Torebki (Kielnieńska) 123, 80-299 Gdańsk",
+    "koordynaty": "54.4200 N, 18.4550 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Wodnika",
+    "opis": "ul. Wodnika 52, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4280 N, 18.4700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Lotnicza",
+    "opis": "ul. Słowackiego 200, 80-298 Gdańsk (Lotnisko)",
+    "koordynaty": "54.3800 N, 18.4735 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Morena",
+    "opis": "ul. Nałkowskiej 3, 80-286 Gdańsk (Morena)",
+    "koordynaty": "54.3535 N, 18.5770 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Wileńska",
+    "opis": "ul. Wileńska 44, 80-215 Gdańsk (Morena)",
+    "koordynaty": "54.3605 N, 18.5955 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dr. Max Carrefour",
+    "opis": "ul. Schuberta 102A, 80-172 Gdańsk (Morena)",
+    "koordynaty": "54.3540 N, 18.5850 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Chełm",
+    "opis": "ul. Cieszyńskiego 38, 80-809 Gdańsk (Chełm, Pasaż)",
+    "koordynaty": "54.3325 N, 18.6200 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "DOZ Apteka Chełm",
+    "opis": "ul. Chałubińskiego 29, 80-807 Gdańsk",
+    "koordynaty": "54.3342 N, 18.6258 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Cosmedica Worcella",
+    "opis": "ul. Stanisława Worcella 44, 80-809 Gdańsk (Chełm)",
+    "koordynaty": "54.3395 N, 18.6290 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Orunia Górna",
+    "opis": "ul. Królowej Jadwigi 137, 80-041 Gdańsk",
+    "koordynaty": "54.3218 N, 18.6072 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Dbam o Zdrowie Wawelska",
+    "opis": "ul. Wawelska 23, 80-034 Gdańsk (Orunia Górna)",
+    "koordynaty": "54.3220 N, 18.6080 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Świętokrzyska",
+    "opis": "ul. Świętokrzyska 21, 80-180 Gdańsk",
+    "koordynaty": "54.3212 N, 18.6060 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Płocka",
+    "opis": "ul. Płocka 5, 80-180 Gdańsk (Ujeścisko)",
+    "koordynaty": "54.3250 N, 18.5950 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Lawendowa",
+    "opis": "ul. Lawendowe Wzgórze 10, 80-175 Gdańsk (Jasień)",
+    "koordynaty": "54.3355 N, 18.5520 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Gościnna",
+    "opis": "ul. Gościnna 3, 80-032 Gdańsk (Orunia Dolna)",
+    "koordynaty": "54.3216 N, 18.6366 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Diamentowa",
+    "opis": "ul. Diamentowa 3, 80-028 Gdańsk (Orunia)",
+    "koordynaty": "54.3180 N, 18.6300 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Gemini Suchanino",
+    "opis": "ul. Trzy Lipy 3, 80-172 Gdańsk (Park Naukowo-Technologiczny)",
+    "koordynaty": "54.3590 N, 18.6145 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Cosmedica Paderewskiego",
+    "opis": "ul. Paderewskiego 9/3, 80-170 Gdańsk (Suchanino)",
+    "koordynaty": "54.3600 N, 18.6000 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Nadmorska",
+    "opis": "ul. Dworska 27, 80-506 Gdańsk (Brzeźno)",
+    "koordynaty": "54.4030 N, 18.6295 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Na Wyspie",
+    "opis": "ul. Kolonijna 2, 80-530 Gdańsk (Letnica/Nowy Port)",
+    "koordynaty": "54.3950 N, 18.6550 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kryniczna",
+    "opis": "ul. Kryniczna 20, 80-519 Gdańsk (Brzeźno)",
+    "koordynaty": "54.4000 N, 18.6400 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Na Stogach",
+    "opis": "ul. Hoża 14, 80-628 Gdańsk (Stogi)",
+    "koordynaty": "54.3670 N, 18.7250 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Siennicka",
+    "opis": "ul. Siennicka 9, 80-758 Gdańsk (Przeróbka)",
+    "koordynaty": "54.3550 N, 18.6850 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kowale",
+    "opis": "ul. Staropolska 32, 80-180 Kowale (Południe)",
+    "koordynaty": "54.3055 N, 18.5720 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kocurki",
+    "opis": "ul. Kocurki 3, 80-822 Gdańsk",
+    "koordynaty": "54.3450 N, 18.6500 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kartuska 17",
+    "opis": "ul. Kartuska 17, 80-103 Gdańsk",
+    "koordynaty": "54.3510 N, 18.6350 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Źródło Zdrowia",
+    "opis": "ul. Obrońców Wybrzeża 1, 80-398 Gdańsk",
+    "koordynaty": "54.4095 N, 18.5880 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Bulońska",
+    "opis": "ul. Bulońska 18, 80-287 Gdańsk",
+    "koordynaty": "54.3550 N, 18.5700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka w Przychodni",
+    "opis": "ul. Polanki 117, 80-308 Gdańsk (Oliwa)",
+    "koordynaty": "54.4050 N, 18.5650 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Cedrowa",
+    "opis": "ul. Cedrowa 27, 80-175 Gdańsk",
+    "koordynaty": "54.3400 N, 18.5800 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Karczemki",
+    "opis": "ul. Szczęśliwa 3, 80-176 Gdańsk (Karczemki/Kokoszki, CH Auchan)",
+    "koordynaty": "54.3650 N, 18.5200 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kalinowa",
+    "opis": "ul. Kalinowa 3, 80-298 Gdańsk (Kokoszki)",
+    "koordynaty": "54.3600 N, 18.4800 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka przy Szpitalu MSWiA",
+    "opis": "ul. Kartuska 4/6, 80-104 Gdańsk",
+    "koordynaty": "54.3510 N, 18.6360 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Piekarnicza",
+    "opis": "ul. Piekarnicza 26, 80-126 Gdańsk (Morena/Siedlce)",
+    "koordynaty": "54.3550 N, 18.5900 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Subisława",
+    "opis": "ul. Subisława 27, 80-354 Gdańsk (Żabianka)",
+    "koordynaty": "54.4250 N, 18.5700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Piastowska",
+    "opis": "ul. Piastowska 90, 80-358 Gdańsk (Przymorze Małe)",
+    "koordynaty": "54.4150 N, 18.5750 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Opolska",
+    "opis": "ul. Opolska 3, 80-395 Gdańsk (Przymorze)",
+    "koordynaty": "54.4080 N, 18.5800 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Starowiejska",
+    "opis": "ul. Starowiejska 30, 80-534 Gdańsk (Letnica)",
+    "koordynaty": "54.3900 N, 18.6450 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Wolności",
+    "opis": "ul. Wolności 10, 80-538 Gdańsk (Nowy Port)",
+    "koordynaty": "54.4020 N, 18.6650 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Szeroka",
+    "opis": "ul. Szeroka 121, 80-835 Gdańsk",
+    "koordynaty": "54.3510 N, 18.6530 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Batorego",
+    "opis": "ul. Batorego 18, 80-251 Gdańsk (Wrzeszcz Górny)",
+    "koordynaty": "54.3780 N, 18.6000 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Do Studzienki",
+    "opis": "ul. Do Studzienki 21, 80-227 Gdańsk (Wrzeszcz)",
+    "koordynaty": "54.3700 N, 18.6100 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Mickiewicza",
+    "opis": "ul. Mickiewicza 26, 80-425 Gdańsk",
+    "koordynaty": "54.3820 N, 18.6180 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Chrobrego",
+    "opis": "ul. Chrobrego 80, 80-414 Gdańsk",
+    "koordynaty": "54.3900 N, 18.6300 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Turzycowa",
+    "opis": "ul. Turzycowa 18, 80-175 Gdańsk (Jasień)",
+    "koordynaty": "54.3340 N, 18.5600 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Zeusa",
+    "opis": "ul. Zeusa 37, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4350 N, 18.4600 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Jednorożca",
+    "opis": "ul. Jednorożca 69, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4200 N, 18.4700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Wita Stwosza",
+    "opis": "ul. Wita Stwosza 73, 80-308 Gdańsk (Oliwa/UG)",
+    "koordynaty": "54.3980 N, 18.5700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Bitwy Oliwskiej",
+    "opis": "ul. Bitwy Oliwskiej 24, 80-339 Gdańsk (Żabianka/Oliwa)",
+    "koordynaty": "54.4180 N, 18.5650 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Porębskiego",
+    "opis": "ul. Porębskiego 9, 80-180 Gdańsk (Zakoniczyn)",
+    "koordynaty": "54.3200 N, 18.5800 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Człuchowska",
+    "opis": "ul. Człuchowska 2, 80-180 Gdańsk",
+    "koordynaty": "54.3150 N, 18.5900 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Małomiejska",
+    "opis": "ul. Małomiejska 22, 80-037 Gdańsk (Orunia Górna)",
+    "koordynaty": "54.3250 N, 18.6200 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Punkt Apteczny w Świbnie",
+    "opis": "ul. Boguckiego 103, 80-690 Gdańsk (Świbno - Wyspa Sobieszewska)",
+    "koordynaty": "54.3350 N, 18.9350 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka w Garnizonie",
+    "opis": "ul. Słowackiego 23, 80-257 Gdańsk (Wrzeszcz, Garnizon)",
+    "koordynaty": "54.3850 N, 18.5950 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Partyzantów",
+    "opis": "ul. Partyzantów 14, 80-254 Gdańsk (Wrzeszcz Górny)",
+    "koordynaty": "54.3800 N, 18.6050 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Cienista",
+    "opis": "ul. Cienista 30, 80-809 Gdańsk (Chełm)",
+    "koordynaty": "54.3380 N, 18.6150 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Wodopój",
+    "opis": "ul. Wodopój 7, 80-890 Gdańsk (Stare Miasto)",
+    "koordynaty": "54.3540 N, 18.6460 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Piwna",
+    "opis": "ul. Piwna 1/2, 80-831 Gdańsk (Główne Miasto)",
+    "koordynaty": "54.3500 N, 18.6500 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Elbląska",
+    "opis": "ul. Elbląska 66, 80-761 Gdańsk (Rudniki)",
+    "koordynaty": "54.3450 N, 18.6900 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Uczniowska",
+    "opis": "ul. Uczniowska 24, 80-530 Gdańsk (Gdańsk Stadion/Letnica)",
+    "koordynaty": "54.3900 N, 18.6400 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Reja",
+    "opis": "ul. Mikołaja Reja 15, 80-404 Gdańsk",
+    "koordynaty": "54.3820 N, 18.6350 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Sienna",
+    "opis": "ul. Sienna Grobla 7, 80-769 Gdańsk (Polski Hak)",
+    "koordynaty": "54.3500 N, 18.6700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Malczewskiego",
+    "opis": "ul. Malczewskiego 118, 80-109 Gdańsk (Siedlce)",
+    "koordynaty": "54.3580 N, 18.6180 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kamieńskiego",
+    "opis": "ul. Kamieńskiego 15, 80-171 Gdańsk (Suchanino)",
+    "koordynaty": "54.3650 N, 18.6180 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Tamka",
+    "opis": "ul. Tamka 2, 80-628 Gdańsk (Stogi)",
+    "koordynaty": "54.3680 N, 18.7200 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Piotrkowska",
+    "opis": "ul. Piotrkowska 45, 80-180 Gdańsk (Ujeścisko)",
+    "koordynaty": "54.3220 N, 18.5880 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Niepołomicka",
+    "opis": "ul. Niepołomicka 18, 80-180 Gdańsk (Łostowice)",
+    "koordynaty": "54.3050 N, 18.5900 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Kolbudzka",
+    "opis": "ul. Kolbudzka 1, 80-180 Gdańsk (Jankowo)",
+    "koordynaty": "54.2950 N, 18.5700 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Chełmińska",
+    "opis": "ul. Chełmińska 10, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4280 N, 18.4600 E"
+  },
+  {
+    "kategoria": "Zdrowie",
+    "typ": "Apteka",
+    "tytul": "Apteka Galaktyczna",
+    "opis": "ul. Galaktyczna 25, 80-299 Gdańsk (Osowa)",
+    "koordynaty": "54.4180 N, 18.4650 E"
+  }
+]

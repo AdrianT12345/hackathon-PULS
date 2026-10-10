@@ -1,0 +1,1082 @@
+[
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Uniwersytet Gdański (Kampus Główny)",
+    "Opis": "ul. Jana Bażyńskiego 8, 80-309 Gdańsk (Oliwa). Rektorat i główne wydziały.",
+    "koordynaty": "54.3995 N, 18.5720 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Politechnika Gdańska",
+    "Opis": "ul. Gabriela Narutowicza 11/12, 80-233 Gdańsk (Wrzeszcz). Uczelnia techniczna.",
+    "koordynaty": "54.3715 N, 18.6190 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Gdański Uniwersytet Medyczny (GUMed)",
+    "Opis": "ul. Marii Skłodowskiej-Curie 3A, 80-210 Gdańsk (Aniołki).",
+    "koordynaty": "54.3665 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Akademia Sztuk Pięknych (Wielka Zbrojownia)",
+    "Opis": "ul. Targ Węglowy 6, 80-836 Gdańsk (Śródmieście).",
+    "koordynaty": "54.3505 N, 18.6490 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Akademia Muzyczna im. Stanisława Moniuszki",
+    "Opis": "ul. Łąkowa 1-2, 80-743 Gdańsk (Dolne Miasto).",
+    "koordynaty": "54.3430 N, 18.6620 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Akademia Wychowania Fizycznego i Sportu (AWFiS)",
+    "Opis": "ul. Kazimierza Górskiego 1, 80-336 Gdańsk (Oliwa/Żabianka).",
+    "koordynaty": "54.4210 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Uniwersytet WSB Merito Gdańsk",
+    "Opis": "al. Grunwaldzka 238A, 80-266 Gdańsk (Strzyża).",
+    "koordynaty": "54.3940 N, 18.5900 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Polsko-Japońska Akademia Technik Komputerowych",
+    "Opis": "ul. Targ Drzewny 9/11, 80-894 Gdańsk (Śródmieście).",
+    "koordynaty": "54.3540 N, 18.6480 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Ateneum - Akademia Nauk Stosowanych",
+    "Opis": "ul. Wały Piastowskie 1, 80-855 Gdańsk (Centrum, Zieleniak).",
+    "koordynaty": "54.3580 N, 18.6460 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Wyższa",
+    "Nazwa": "Wyższa Szkoła Turystyki i Hotelarstwa",
+    "Opis": "ul. Miszewskiego 12/13, 80-239 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3750 N, 18.6150 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "I Liceum Ogólnokształcące im. M. Kopernika",
+    "Opis": "ul. Wały Piastowskie 6, 80-855 Gdańsk (Śródmieście). Słynne 'Jedynka'.",
+    "koordynaty": "54.3585 N, 18.6480 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "II Liceum Ogólnokształcące im. dr. W. Pniewskiego",
+    "Opis": "ul. Pestalozziego 7/9, 80-445 Gdańsk (Wrzeszcz Dolny).",
+    "koordynaty": "54.3850 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "III Liceum Ogólnokształcące (Topolówka)",
+    "Opis": "ul. Topolowa 7, 80-255 Gdańsk (Wrzeszcz Górny).",
+    "koordynaty": "54.3760 N, 18.6080 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "IV Liceum Ogólnokształcące (ZSO nr 5)",
+    "Opis": "ul. Na Zaspę 31, 80-546 Gdańsk (Nowy Port).",
+    "koordynaty": "54.4000 N, 18.6650 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "V Liceum Ogólnokształcące im. S. Żeromskiego",
+    "Opis": "ul. Polanki 130, 80-322 Gdańsk (Oliwa).",
+    "koordynaty": "54.4100 N, 18.5550 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "VII Liceum Ogólnokształcące im. J. Wybickiego",
+    "Opis": "ul. Chałubińskiego 13, 80-809 Gdańsk (Chełm).",
+    "koordynaty": "54.3350 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "VIII Liceum Ogólnokształcące im. KEN",
+    "Opis": "ul. Kartuska 128, 80-136 Gdańsk (Siedlce).",
+    "koordynaty": "54.3520 N, 18.6180 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "IX Liceum Ogólnokształcące im. K. Kolbergera",
+    "Opis": "ul. Wilka-Krzyżanowskiego 8, 80-271 Gdańsk (Strzyża/Wrzeszcz).",
+    "koordynaty": "54.3850 N, 18.5900 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "X Liceum Ogólnokształcące",
+    "Opis": "ul. Kościuszki 8B, 80-451 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3840 N, 18.6120 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XIV Liceum Ogólnokształcące im. Jana Pawła II",
+    "Opis": "ul. Meissnera 9, 80-462 Gdańsk (Zaspa).",
+    "koordynaty": "54.3980 N, 18.6150 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XV Liceum Ogólnokształcące",
+    "Opis": "ul. Pilotów 7, 80-460 Gdańsk (Zaspa).",
+    "koordynaty": "54.3950 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XIX Liceum Ogólnokształcące im. Mariana Mokwy",
+    "Opis": "ul. Pestalozziego 11/13, 80-445 Gdańsk (Wrzeszcz Dolny).",
+    "koordynaty": "54.3855 N, 18.6255 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XX Liceum Ogólnokształcące im. Zbigniewa Herberta",
+    "Opis": "ul. Dobrowolskiego 6, 80-287 Gdańsk (Morena).",
+    "koordynaty": "54.3560 N, 18.5850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XXIII Liceum Ogólnokształcące",
+    "Opis": "ul. Krasickiego 10, 80-515 Gdańsk (Brzeźno).",
+    "koordynaty": "54.4060 N, 18.6350 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "XXIV Liceum Ogólnokształcące",
+    "Opis": "ul. Wodnika 57, 80-299 Gdańsk (Osowa).",
+    "koordynaty": "54.4250 N, 18.4700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "Gdańskie Liceum Autonomiczne (GLA)",
+    "Opis": "ul. Osiek 11/12, 80-842 Gdańsk (Śródmieście).",
+    "koordynaty": "54.3560 N, 18.6500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "Uniwersyteckie Liceum Ogólnokształcące",
+    "Opis": "ul. Traugutta 92, 80-221 Gdańsk (Aniołki).",
+    "koordynaty": "54.3700 N, 18.6150 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "Liceum Ogólnokształcące Collegium Gedanense",
+    "Opis": "al. Legionów 11, 80-441 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3825 N, 18.6040 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "Akademickie Liceum Ogólnokształcące Lingwista",
+    "Opis": "ul. Świętej Barbary 1, 80-753 Gdańsk (Długie Ogrody).",
+    "koordynaty": "54.3500 N, 18.6600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Średnia (Liceum)",
+    "Nazwa": "Szkoła Mistrzostwa Sportowego (Liceum nr 12)",
+    "Opis": "ul. Subisława 22, 80-354 Gdańsk (Żabianka).",
+    "koordynaty": "54.4250 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Szkoły Okrętowe i Techniczne CONRADINUM",
+    "Opis": "ul. G. Piramowicza 1/2, 80-218 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3730 N, 18.6180 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Łączności im. Obrońców Poczty Polskiej",
+    "Opis": "ul. Podwale Staromiejskie 51/52, 80-845 Gdańsk (Stare Miasto).",
+    "koordynaty": "54.3545 N, 18.6530 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Państwowe Szkoły Budownictwa (PSB)",
+    "Opis": "al. Grunwaldzka 238, 80-266 Gdańsk (Strzyża).",
+    "koordynaty": "54.3920 N, 18.5920 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Energetycznych",
+    "Opis": "ul. Mikołaja Reja 25, 80-870 Gdańsk (Młyniska).",
+    "koordynaty": "54.3810 N, 18.6360 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Samochodowych",
+    "Opis": "ul. Elbląska 54/64, 80-724 Gdańsk (Rudniki).",
+    "koordynaty": "54.3460 N, 18.6850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Gastronomiczno-Hotelarskich",
+    "Opis": "al. Legionów 7, 80-441 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3820 N, 18.6050 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Morskich im. Bohaterskich Obrońców Westerplatte",
+    "Opis": "ul. Wyzwolenia 8, 80-537 Gdańsk (Nowy Port).",
+    "koordynaty": "54.4020 N, 18.6600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Centrum Kształcenia Zawodowego i Ustawicznego nr 1",
+    "Opis": "al. Hallera 16/18, 80-426 Gdańsk (Wrzeszcz Dolny).",
+    "koordynaty": "54.3800 N, 18.6200 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Centrum Kształcenia Zawodowego i Ustawicznego nr 2",
+    "Opis": "ul. Smoleńska 5/7, 80-058 Gdańsk (Orunia).",
+    "koordynaty": "54.3350 N, 18.6400 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Kreowania Wizerunku",
+    "Opis": "ul. Prezydenta Lecha Kaczyńskiego 35, 80-364 Gdańsk (Przymorze).",
+    "koordynaty": "54.4100 N, 18.5950 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Pomorskie Szkoły Rzemiosł",
+    "Opis": "ul. Sobieskiego 90, 80-216 Gdańsk (Wrzeszcz/Suchanino).",
+    "koordynaty": "54.3680 N, 18.6120 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Architektury Krajobrazu i Handlowo-Usługowych",
+    "Opis": "ul. Czyżewskiego 31, 80-336 Gdańsk (Oliwa).",
+    "koordynaty": "54.4150 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Muzyczna",
+    "Nazwa": "Ogólnokształcąca Szkoła Muzyczna I i II stopnia",
+    "Opis": "ul. Gnilna 3, 80-847 Gdańsk (Stare Miasto).",
+    "koordynaty": "54.3560 N, 18.6490 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Muzyczna",
+    "Nazwa": "Państwowa Szkoła Muzyczna II st. im. Fryderyka Chopina",
+    "Opis": "ul. Partyzantów 21A, 80-254 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3810 N, 18.6080 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Muzyczna",
+    "Nazwa": "Państwowa Szkoła Muzyczna I st. im. H. Wieniawskiego",
+    "Opis": "ul. Gościnna 4, 80-032 Gdańsk (Orunia).",
+    "koordynaty": "54.3210 N, 18.6360 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Muzyczna",
+    "Nazwa": "Państwowa Szkoła Muzyczna I st. im. G. Bacewicz",
+    "Opis": "ul. Dmowskiego 16B, 80-264 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3800 N, 18.6050 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Baletowa",
+    "Nazwa": "Ogólnokształcąca Szkoła Baletowa im. Janiny Jarzynówny-Sobczak",
+    "Opis": "al. Legionów 3, 80-441 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3815 N, 18.6040 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Artystyczna / Plastyczna",
+    "Nazwa": "Liceum Sztuk Plastycznych",
+    "Opis": "ul. Polanki 124, 80-308 Gdańsk (Oliwa).",
+    "koordynaty": "54.4080 N, 18.5580 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "TEB Edukacja",
+    "Opis": "ul. Dmowskiego 16A, 80-264 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3805 N, 18.6055 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Szkoły Beata",
+    "Opis": "ul. Lastadia 2, 80-880 Gdańsk (Stare Przedmieście).",
+    "koordynaty": "54.3480 N, 18.6500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Specjalnych nr 1",
+    "Opis": "ul. Stefana Batorego 26, 80-251 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3790 N, 18.6050 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Zespół Szkół Specjalnych nr 2",
+    "Opis": "ul. Zgody II 6, 80-320 Gdańsk (Oliwa).",
+    "koordynaty": "54.4050 N, 18.5700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Technikum / Branżowa",
+    "Nazwa": "Technikum nr 11 (Mundurowe - Feniks)",
+    "Opis": "ul. Seredyńskiego 1A, 80-753 Gdańsk (Długie Ogrody).",
+    "koordynaty": "54.3480 N, 18.6650 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 1 im. Mariusza Zaruskiego",
+    "Opis": "ul. Poli Gojawiczyńskiej 10, 80-286 Gdańsk (Morena).",
+    "koordynaty": "54.3590 N, 18.5920 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 2 im. Armii Krajowej",
+    "Opis": "ul. Marusarzówny 10, 80-288 Gdańsk (Morena).",
+    "koordynaty": "54.3540 N, 18.5860 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 3 im. Jana Brzechwy",
+    "Opis": "ul. Czubińskiego 2, 80-809 Gdańsk (Chełm).",
+    "koordynaty": "54.3340 N, 18.6220 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 5 im. Jana Pawła II",
+    "Opis": "ul. Meissnera 9, 80-462 Gdańsk (Zaspa).",
+    "koordynaty": "54.3980 N, 18.6150 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 6",
+    "Opis": "ul. Lawendowe Wzgórze 5, 80-175 Gdańsk (Jasień).",
+    "koordynaty": "54.3355 N, 18.5550 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 8 im. Przyjaciół Ziemi",
+    "Opis": "ul. Dragana 2, 80-809 Gdańsk (Chełm).",
+    "koordynaty": "54.3400 N, 18.6220 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 11 im. Na Bursztynowym Szlaku",
+    "Opis": "ul. Stryjewskiego 28, 80-631 Gdańsk (Stogi).",
+    "koordynaty": "54.3650 N, 18.7200 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 12 im. Bluszcza",
+    "Opis": "ul. Człuchowska 6, 80-180 Gdańsk (Ujeścisko).",
+    "koordynaty": "54.3160 N, 18.5910 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 14 im. ks. Grzegorza Piramowicza",
+    "Opis": "ul. Kartuska 126A, 80-136 Gdańsk (Siedlce).",
+    "koordynaty": "54.3510 N, 18.6180 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 15 im. dr Urszuli Mroczkiewicz",
+    "Opis": "ul. Smoluchowskiego 13, 80-214 Gdańsk (Aniołki).",
+    "koordynaty": "54.3640 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 16 im. Władysława Broniewskiego",
+    "Opis": "ul. Ubocze 3, 80-041 Gdańsk (Orunia Górna).",
+    "koordynaty": "54.3220 N, 18.6350 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 19 im. Zasłużonych Ludzi Morza",
+    "Opis": "ul. Emilii Hoene 6, 80-041 Gdańsk (Orunia Górna).",
+    "koordynaty": "54.3200 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 20",
+    "Opis": "ul. Ziemska 6, 80-126 Gdańsk (Osiedle Pięć Wzgórz).",
+    "koordynaty": "54.3160 N, 18.5950 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 23 im. Dzieci Świata",
+    "Opis": "ul. Opacka 7, 80-338 Gdańsk (Oliwa).",
+    "koordynaty": "54.4100 N, 18.5550 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 24 im. Gustawa Morcinka",
+    "Opis": "ul. Lilli Wenedy 19, 80-419 Gdańsk (Wrzeszcz Dolny).",
+    "koordynaty": "54.3850 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 27 im. Dzieci Zjednoczonej Europy",
+    "Opis": "ul. Srebrniki 10, 80-282 Gdańsk (Wrzeszcz Górny/Strzyża).",
+    "koordynaty": "54.3800 N, 18.5900 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 33",
+    "Opis": "ul. Wodnika 57, 80-299 Gdańsk (Osowa).",
+    "koordynaty": "54.4280 N, 18.4700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 35 im. Jana Parandowskiego",
+    "Opis": "ul. Wąsowicza 30, 80-318 Gdańsk (Oliwa).",
+    "koordynaty": "54.4080 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 38 im. gen. S. Maczka",
+    "Opis": "ul. Leśna Góra 2, 80-281 Gdańsk (Niedźwiednik).",
+    "koordynaty": "54.3720 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 39 im. Wojska Polskiego",
+    "Opis": "ul. Obywatelska 1, 80-259 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3820 N, 18.6000 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 42 im. I.J. Paderewskiego",
+    "Opis": "ul. Czajkowskiego 1, 80-169 Gdańsk (Suchanino).",
+    "koordynaty": "54.3600 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 43 im. F. Chopina",
+    "Opis": "ul. Beethovena 20, 80-171 Gdańsk (Suchanino).",
+    "koordynaty": "54.3620 N, 18.6150 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 44 im. Adama Mickiewicza",
+    "Opis": "ul. Jagiellońska 24, 80-366 Gdańsk (Przymorze).",
+    "koordynaty": "54.4150 N, 18.6000 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 45 im. Bohaterów Westerplatte",
+    "Opis": "ul. Matki Polki 3A, 80-251 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3820 N, 18.6060 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 46 im. Lecha Bądkowskiego",
+    "Opis": "ul. Arkońska 17, 80-381 Gdańsk (Przymorze).",
+    "koordynaty": "54.4050 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 47 im. Kaszubskiej Brygady WOP",
+    "Opis": "ul. Reformacka 18, 80-808 Gdańsk (Chełm).",
+    "koordynaty": "54.3420 N, 18.6300 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 48 im. Prof. Kazimierza Demela",
+    "Opis": "ul. Burzyńskiego 10, 80-462 Gdańsk (Zaspa).",
+    "koordynaty": "54.3900 N, 18.6050 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 49 im. bł. Ks. Bronisława Komorowskiego",
+    "Opis": "al. Legionów 11, 80-441 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3830 N, 18.6000 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 50 im. Emilii Plater",
+    "Opis": "ul. Grobla IV 8, 80-834 Gdańsk (Główne Miasto).",
+    "koordynaty": "54.3520 N, 18.6550 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 52 im. T. Kościuszki",
+    "Opis": "ul. Kościuszki 111, 80-418 Gdańsk (Przymorze Małe).",
+    "koordynaty": "54.3950 N, 18.6250 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 55 im. J. Heweliusza",
+    "Opis": "ul. Wolności 6A, 80-538 Gdańsk (Nowy Port).",
+    "koordynaty": "54.4020 N, 18.6650 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 56 im. Andrzeja Struga",
+    "Opis": "ul. Małomiejska 58, 80-037 Gdańsk (Orunia).",
+    "koordynaty": "54.3250 N, 18.6200 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 57 im. gen. Władysława Andersa",
+    "Opis": "ul. Aksamitna 8, 80-858 Gdańsk (Śródmieście).",
+    "koordynaty": "54.3580 N, 18.6470 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 58 im. Kazimierza Sołtysika",
+    "Opis": "ul. Skarpowa 3, 80-145 Gdańsk (Siedlce).",
+    "koordynaty": "54.3570 N, 18.6000 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 59 im. I Dywizji Pancernej gen. Maczka",
+    "Opis": "ul. Modra 2, 80-736 Gdańsk (Olszynka).",
+    "koordynaty": "54.3350 N, 18.6700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 60 im. Jana Pawła II",
+    "Opis": "ul. Chłopska 64, 80-350 Gdańsk (Przymorze).",
+    "koordynaty": "54.4100 N, 18.5850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 61 im. Józefa Wybickiego",
+    "Opis": "ul. Sienna 26, 80-605 Gdańsk (Przeróbka).",
+    "koordynaty": "54.3550 N, 18.6850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 62 im. Piotra Ściegiennego",
+    "Opis": "ul. Kępna 38, 80-630 Gdańsk (Krakowiec/Stogi).",
+    "koordynaty": "54.3600 N, 18.7400 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 65 im. Alfa Liczmańskiego",
+    "Opis": "ul. Śluza 3, 80-716 Gdańsk (Dolne Miasto).",
+    "koordynaty": "54.3420 N, 18.6580 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 69 im. gen. S. Sosabowskiego",
+    "Opis": "ul. Zielony Trójkąt 1, 80-869 Gdańsk (Młyniska).",
+    "koordynaty": "54.3750 N, 18.6350 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 76 im. J.M. Heweliusza",
+    "Opis": "ul. Jagiellońska 14, 80-371 Gdańsk (Przymorze).",
+    "koordynaty": "54.4120 N, 18.6020 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 77 im. Orła Białego",
+    "Opis": "ul. Orłowska 13, 80-353 Gdańsk (Żabianka).",
+    "koordynaty": "54.4250 N, 18.5700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 79 im. E. Kwiatkowskiego",
+    "Opis": "ul. Kołobrzeska 49, 80-391 Gdańsk (Przymorze).",
+    "koordynaty": "54.4060 N, 18.5950 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 80 im. Budowniczych Portu Północnego",
+    "Opis": "ul. Opolska 2, 80-395 Gdańsk (Przymorze).",
+    "koordynaty": "54.4080 N, 18.5800 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 81 im. M. Siedleckiego",
+    "Opis": "ul. Siedleckiego 14, 80-299 Gdańsk (Osowa).",
+    "koordynaty": "54.4250 N, 18.4600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 82 im. prof. Jana Czochralskiego",
+    "Opis": "ul. Radarowa 26, 80-298 Gdańsk (Klukowo/Matarnia).",
+    "koordynaty": "54.4100 N, 18.4800 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 83",
+    "Opis": "ul. Stokłosy 1, 80-180 Gdańsk (Kokoszki).",
+    "koordynaty": "54.3600 N, 18.4800 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 84 im. Jana Pawła II",
+    "Opis": "ul. Otomińska 72, 80-178 Gdańsk (Kiełpino Górne).",
+    "koordynaty": "54.3500 N, 18.4900 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 85 im. Zrzeszenia Kaszubsko-Pomorskiego",
+    "Opis": "ul. Stolema 59, 80-177 Gdańsk (Jasień).",
+    "koordynaty": "54.3400 N, 18.5500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 86 im. prof. Jerzego Sampa",
+    "Opis": "ul. Wielkopolska 20, 80-180 Gdańsk (Łostowice).",
+    "koordynaty": "54.3100 N, 18.5850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 88 im. D.G. Fahrenheita",
+    "Opis": "ul. Boguckiego 44, 80-690 Gdańsk (Świbno / Wyspa Sobieszewska).",
+    "koordynaty": "54.3350 N, 18.9350 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 89 im. T. Mazowieckiego",
+    "Opis": "ul. Szyprów 3, 80-335 Gdańsk (Żabianka).",
+    "koordynaty": "54.4230 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 92 (w ZSO nr 2)",
+    "Opis": "ul. Startowa 9, 80-461 Gdańsk (Zaspa).",
+    "koordynaty": "54.3940 N, 18.5980 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa Specjalna nr 26",
+    "Opis": "ul. Karpia 1, 80-860 Gdańsk.",
+    "koordynaty": "54.3600 N, 18.6600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa Specjalna nr 37",
+    "Opis": "ul. Piastowska 35, 80-332 Gdańsk (Jelitkowo).",
+    "koordynaty": "54.4180 N, 18.5850 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa w Zespole Szkół Sportowych i Ogólnokształcących",
+    "Opis": "ul. Subisława 22, 80-354 Gdańsk (Żabianka).",
+    "koordynaty": "54.4250 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Gdańska Szkoła Podstawowa (GSP)",
+    "Opis": "ul. Małomiejska 58, 80-037 Gdańsk (Orunia).",
+    "koordynaty": "54.3250 N, 18.6200 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Szkoła Podstawowa Fregata (Dziewczęta)",
+    "Opis": "ul. Cystersów 13, 80-330 Gdańsk (Oliwa).",
+    "koordynaty": "54.4100 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Gdańska Autonomiczna Szkoła Podstawowa",
+    "Opis": "ul. Osiek 11, 80-842 Gdańsk (Śródmieście).",
+    "koordynaty": "54.3560 N, 18.6500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Międzynarodowa Szkoła Podstawowa w Gdańsku (International School)",
+    "Opis": "ul. Suchej 29, 80-531 Gdańsk (Letnica).",
+    "koordynaty": "54.3980 N, 18.6500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 4 im. I.J. Paderewskiego",
+    "Opis": "ul. Łąkowa 61, 80-769 Gdańsk (Dolne Miasto).",
+    "koordynaty": "54.3410 N, 18.6670 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 7 im. mjra M. Sucharskiego",
+    "Opis": "ul. Trakt Świętego Wojciecha 18, 80-039 Gdańsk (Orunia).",
+    "koordynaty": "54.3350 N, 18.6380 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 10 im. Gustawa Morcinka",
+    "Opis": "ul. Krasickiego 10, 80-515 Gdańsk (Brzeźno).",
+    "koordynaty": "54.4060 N, 18.6350 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 17 (w Zespole Szkół Sportowych)",
+    "Opis": "ul. Czarny Dwór 3, 80-365 Gdańsk (Przymorze).",
+    "koordynaty": "54.4080 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 21 im. kpt. ż.w. K.O. Borchardta",
+    "Opis": "ul. Na Stoku 43, 80-874 Gdańsk (Biskupia Górka).",
+    "koordynaty": "54.3500 N, 18.6400 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 29 im. Tysiąclecia Państwa Polskiego",
+    "Opis": "ul. Miałki Szlak 74, 80-717 Gdańsk (Rudniki).",
+    "koordynaty": "54.3450 N, 18.7000 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 67 im. Obrońców Poczty Polskiej",
+    "Opis": "ul. Żabi Kruk 5, 80-822 Gdańsk (Stare Przedmieście).",
+    "koordynaty": "54.3450 N, 18.6500 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 70 im. Pamięci Obrońców Wybrzeża",
+    "Opis": "ul. Michałowskiego 29, 80-300 Gdańsk (VII Dwór/Oliwa).",
+    "koordynaty": "54.3850 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Szkoła Podstawowa nr 87 (Zespół Kształcenia Podstawowego nr 1)",
+    "Opis": "ul. Tęczowa 6, 80-680 Gdańsk (Sobieszewo).",
+    "koordynaty": "54.3450 N, 18.8750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Morska Szkoła Podstawowa im. Aleksandra Doby",
+    "Opis": "ul. Rogalińska 17, 80-809 Gdańsk (Chełm/Ujeścisko).",
+    "koordynaty": "54.3300 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa",
+    "Nazwa": "Pozytywna Szkoła Podstawowa",
+    "Opis": "ul. Azaliowa 18, 80-175 Gdańsk (Kokoszki). Bardzo duża szkoła publiczna.",
+    "koordynaty": "54.3620 N, 18.5300 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Zespół Szkół (Katolicka)",
+    "Nazwa": "Szkoły im. św. Jana de La Salle (Liceum i Podstawowa)",
+    "Opis": "ul. Słowackiego 101, 80-281 Gdańsk (Niedźwiednik).",
+    "koordynaty": "54.3850 N, 18.5700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Zespół Szkół (Katolicka)",
+    "Nazwa": "Collegium Marianum (Liceum Katolickie)",
+    "Opis": "al. Grunwaldzka 502, 80-320 Gdańsk (Oliwa, przy Katedrze).",
+    "koordynaty": "54.4110 N, 18.5580 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Zespół Szkół (Katolicka)",
+    "Nazwa": "Szkoły Towarzystwa Salezjańskiego (Liceum i Podstawowa)",
+    "Opis": "ul. Podwale Staromiejskie 50, 80-845 Gdańsk (Stare Miasto).",
+    "koordynaty": "54.3550 N, 18.6520 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "I Społeczna Szkoła Podstawowa STO",
+    "Opis": "ul. Polanki 11, 80-308 Gdańsk (Oliwa).",
+    "koordynaty": "54.3980 N, 18.5750 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "II Społeczna Szkoła Podstawowa STO",
+    "Opis": "ul. Kartuska 245, 80-125 Gdańsk (Jasień/Siedlce).",
+    "koordynaty": "54.3500 N, 18.5800 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "III Społeczna Szkoła Podstawowa STO",
+    "Opis": "ul. Waryńskiego 36, 80-236 Gdańsk (Wrzeszcz).",
+    "koordynaty": "54.3750 N, 18.6100 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Szkoła Podstawowa dla Chłopców Nawigator",
+    "Opis": "ul. Cystersów 13, 80-330 Gdańsk (Oliwa).",
+    "koordynaty": "54.4100 N, 18.5600 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Prywatna)",
+    "Nazwa": "Sopocka Szkoła Autonomiczna (Oddział Gdańsk - Osowa)",
+    "Opis": "ul. Wodnika 57, 80-299 Gdańsk (Osowa). Działa przy ZSO nr 2.",
+    "koordynaty": "54.4280 N, 18.4700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Podstawowa (Specjalna)",
+    "Nazwa": "Szkoła Podstawowa Specjalna dla Dzieci z Autyzmem",
+    "Opis": "ul. B. Chrzanowskiego 19, 80-278 Gdańsk (Strzyża).",
+    "koordynaty": "54.3900 N, 18.5800 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Sportowa",
+    "Nazwa": "Gdańska Szkoła Szermierki",
+    "Opis": "ul. VII Dwór 7, 80-301 Gdańsk (VII Dwór).",
+    "koordynaty": "54.3880 N, 18.5700 E"
+  },
+  {
+    "kategoria1": "Edukacja",
+    "kategoria2": "Szkoły",
+    "typ": "Międzynarodowa",
+    "Nazwa": "British International School Gdańsk",
+    "Opis": "ul. Prezydenta Lecha Kaczyńskiego 28, 80-373 Gdańsk (Przymorze).",
+    "koordynaty": "54.4120 N, 18.5900 E"
+  }
+]
